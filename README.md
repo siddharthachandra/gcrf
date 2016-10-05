@@ -13,7 +13,7 @@ cd scripts
 
 4. Download the trained caffemodel from http://cvn.ecp.fr/personnel/siddhartha/finetuned_iter_10000.caffemodel, and place it into the scripts/resources directory.
 
-wget http://cvn.ecp.fr/personnel/siddhartha/finetuned_iter_10000.caffemodel
+wget http://cvn.ecp.fr/personnel/siddhartha/resources/finetuned_iter_10000.caffemodel
 
 mv finetuned_iter_10000.caffemodel resources
 

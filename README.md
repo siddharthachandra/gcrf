@@ -12,7 +12,10 @@ To cite the paper, please use
     year={2015}
     }
 
-Follow these steps to reproduce our 80.2 IoU on VOC 2012 test set.
+This is the implementation of the Potts type G-CRF caffe layer as introduced in the paper.
+We use deeplab-V2 resnets-101 in conjunction with the Potts type G-CRF module for learning pairwise terms.
+The pairwise terms are drawn from a single (parallem) branch of the resnet-101. 
+Follow these steps to reproduce our 80.2% IoU on VOC 2012 test set.
 
 1. Change the PATH to the VOC Dataset in scripts/resources/test_rtf_release.prototxt, scripts/flip_images.m, scripts/apply_dense_crf.m, scripts/average_lr.m
 2. Compile caffe (caffe_deeplab2_lightweight)

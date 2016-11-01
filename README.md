@@ -5,11 +5,11 @@ Find the pdf of the paper [here](https://siddharthachandra.github.io/resources/c
 
 To cite the paper, please use 
 
-    @inproceedings{ChandraEccv2015,
+    @inproceedings{ChandraEccv2016,
     title={Fast, Exact and Multi-Scale Inference for Semantic Image Segmentation with Deep Gaussian CRFs},
     author={Siddhartha Chandra and Iasonas Kokkinos},
     journal={ECCV},
-    year={2015}
+    year={2016}
     }
 
 This is the implementation of the Potts type G-CRF caffe layer as introduced in the paper.

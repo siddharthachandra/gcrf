@@ -1,7 +1,7 @@
 # gcrf
 Fast, Exact and Multi-Scale Inference for Semantic Image Segmentation with Deep Gaussian CRFs
 
-Find the pdf of the paper [here](https://siddharthachandra.github.io/resources/chandra-eccv-2016.pdf).
+Find the pdf of the paper [here](https://arxiv.org/abs/1603.08358).
 
 To cite the paper, please use 
 
